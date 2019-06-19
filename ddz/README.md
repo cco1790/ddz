@@ -8,3 +8,6 @@ cd ddz
 npm install
 运行Android版本
 react-native run-android
+
+
+我的微信号 wxi_1r6fd1vz4e1w22
