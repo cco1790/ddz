@@ -9,4 +9,4 @@ npm install
 react-native run-android
 
 
-我的微信号  wxi_1r6fd1vz4e1w22
+我的微信号    wxi_1r6fd1vz4e1w22
