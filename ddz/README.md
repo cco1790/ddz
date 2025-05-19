@@ -1,4 +1,4 @@
-本项目是react-native版本的单机斗地主，暂时只是适配Android版本。有apk文件可直接安装 仅做交流学习使用。
+7本项目是react-native版本的单机斗地主，暂时只是适配Android版本。有apk文件可直接安装 仅做交流学习使用。
 
 
 ####安装配置
@@ -9,5 +9,3 @@ npm install
 运行Android版本
 react-native run-android
 
-
-我的微信号 wxi_1r6fd1vz4e1w22
